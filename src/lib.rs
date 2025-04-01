@@ -1,4 +1,5 @@
 pub mod categories;
+pub mod topoi;
 
 #[cfg(test)]
 mod tests {
